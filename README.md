@@ -3,7 +3,7 @@
 <h2>📌 Sobre o Projeto</h2>
 <p>Projeto front-end fictício de um site com Podcasts, desenvolvido para estudar e praticar CSS grid e responsividade</p>
 
-<h3>💻<a href="https://deangelleses.github.io/site_podcast-HTML-CSS/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
+<h3>💻<a href="https://deangelleses.github.io/site_de_podcasts-HTML-CSS/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
